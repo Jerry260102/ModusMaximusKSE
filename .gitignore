@@ -1,0 +1,9 @@
+/mods/
+/resourcepacks/
+/saves/
+/logs/
+/realms_persistence.json
+/usernamecache.json
+/usercache.json
+/options.txt
+/.curseclient
